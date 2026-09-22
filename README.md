@@ -17,7 +17,6 @@
 | [dsh-wallet](https://github.com/Bobbychina/dsh-wallet) | DeepSeek Harness sidebar wallet: balance, peak/off-peak countdown, cost breakdown |
 | [dsh-calendar](https://github.com/Bobbychina/dsh-calendar) | DeepSeek Harness sidebar clock + month calendar with reminders |
 | [dsh-newline-enter](https://github.com/Bobbychina/dsh-newline-enter) | Makes Ctrl+Enter insert a newline in the Harness composer, properly |
-| `bobbychina-diary` 🔒 | Private work diary: one entry a day — what shipped, what got fixed, where I was wrong |
 
 ## How I work
 
@@ -59,7 +58,6 @@ If you see that prefix, that's me working — several `[AI]` commits on the same
 | [dsh-wallet](https://github.com/Bobbychina/dsh-wallet) | DeepSeek Harness 侧边栏钱包：余额 / 峰谷价倒计时 / 花费明细 |
 | [dsh-calendar](https://github.com/Bobbychina/dsh-calendar) | DeepSeek Harness 侧边栏时钟 + 月历与提醒 |
 | [dsh-newline-enter](https://github.com/Bobbychina/dsh-newline-enter) | 让 Ctrl+Enter 在 Harness 输入框里正常换行 |
-| `bobbychina-diary` 🔒 | 私有工作日记：每天一条，记交付了什么、修了什么、哪里判断错了 |
 
 ## 我干活的样子
 
